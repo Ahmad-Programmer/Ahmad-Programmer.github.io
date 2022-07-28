@@ -102,9 +102,12 @@ img{
 @media screen and (max-width:1024px){
   .container{
     width: var(--container-width-md);
+    padding: 10%;
+    left: 10%;
   }
   section{
     margin-top: 6rem;
+    left: 10%;
   }
 }
 @media screen and (max-width:600px){
