@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6e49a5c.css",
+    "main.js": "/static/js/main.c23267f0.js",
+    "static/media/intro-to-AI-IBM.PNG": "/static/media/intro-to-AI-IBM.b460aac5be6a1327876c.PNG",
+    "static/media/IBM-Watson.PNG": "/static/media/IBM-Watson.9b70eb17bd65795cfa11.PNG",
+    "static/media/cv.pdf": "/static/media/cv.4065bc95ab5461a26bf5.pdf",
+    "static/media/King.png": "/static/media/King.3236294313d208530ce1.png",
+    "static/media/me.png": "/static/media/me.83d30fc71ea32c4a07cc.png",
+    "static/media/Python.jpg": "/static/media/Python.a15b8c6d42820e8d02dd.jpg",
+    "index.html": "/index.html",
+    "main.c6e49a5c.css.map": "/static/css/main.c6e49a5c.css.map",
+    "main.c23267f0.js.map": "/static/js/main.c23267f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6e49a5c.css",
+    "static/js/main.c23267f0.js"
+  ]
+}
