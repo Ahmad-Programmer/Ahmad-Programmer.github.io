@@ -74,4 +74,7 @@ header{
     section > h2{
       margin-bottom: 2rem;
     }
+    .header__socials{
+        display: none;
+    }
   }
